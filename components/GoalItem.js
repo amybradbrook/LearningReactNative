@@ -18,11 +18,12 @@ const styles = StyleSheet.create({
     goalItem: {
         margin: 8,
         borderRadius: 4,
-        fontSize:16,
-        backgroundColor: "#5e0acc",
+        padding:5,
+        backgroundColor: "#e4d0ff",
     }, 
     goalText: {
-        color: "white",
-        padding:8
+        color: "1e085a",
+        padding:8,
+        fontSize:20
     }
 })
